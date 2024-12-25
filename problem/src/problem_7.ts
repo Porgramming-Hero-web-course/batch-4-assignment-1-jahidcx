@@ -21,8 +21,8 @@
     }
 
 
-    const car = new Car("Honda", "Civic", 2016);
-    car.getCarAge();
+    // const car = new Car("Honda", "Civic", 2016);
+    // car.getCarAge();
 
 
 
